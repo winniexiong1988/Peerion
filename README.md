@@ -7,7 +7,7 @@
 <h3>Key Features</h3>
 
 <p><b>Kabba AI -</b> Deep Neural Network</p>
-<p><b>Propogation -</b> Token Distribution Process</p>
+<p><b>Propagation -</b> Token Distribution Process</p>
 <p><b>Mitochondria™ -</b> Proof of Service Masternodes</p>
 <p><b>Cross Pollination™ -</b> Cross-blockchain transactions</p>
 <p><b>Greenhouse Incubator™ -</b> Startup and investment hotspot</p>
