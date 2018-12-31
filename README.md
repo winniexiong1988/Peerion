@@ -11,8 +11,10 @@
 <p><b>Mitochondria™ -</b> Proof of Service Masternodes</p>
 <p><b>Cross Pollination™ -</b> Cross-blockchain transactions</p>
 <p><b>Greenhouse Incubator™ -</b> Startup and investment hotspot</p>
+<p><b>Peerion Ambition Loop(PAL) -</b> Algorithmic job matching tool</p>
 <p><b>Decentralized Marketplace -</b> A peer-to-peer interactive platform</p>
-<p><b>Nimbus AI Micro/Macro -</b> P2P tipping bot(micro) + algorithmic autonomous airdrops(macro)</p>
+<p><b>Nimbus Cloud -</b> Tipping / airdrop bot and local data storage tool</p>
+<p><b>Proof-of-Passion(PoP) Algorithm -</b> Consensus algorithm based on uptime and reputation</p>
 <p><b>Blockchain Identity + Smart Contracts -</b> Digitally verified users can interact anonymously P2P in a trustless environment</p>
 <br>
 <p>To learn more about Peerion, please go to our <a href="https://www.hyperionx.org/"> website</a>.</p>
